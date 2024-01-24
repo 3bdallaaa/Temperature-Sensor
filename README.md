@@ -1,7 +1,9 @@
 # Temperature-Sensor
 ![image](https://github.com/3bdallaaa/Temperature-Sensor/assets/118936824/8d7bfd24-13a3-42e1-9b45-21833b9fc903)
 
-Ranges:
+The input is ADC and output is PWM
+
+Ranges of Duty:
  Below 52°C: Fan is turned off.
  Between 52°C and 55°C: Fan operates at 50% duty cycle.
  Above 55°C: Fan operates at 100% duty cycle.
