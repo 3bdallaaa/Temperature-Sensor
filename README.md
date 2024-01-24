@@ -1,4 +1,4 @@
-# Temperature-Based Fan control
+# Temperature-Based Fan Control
 ![image](https://github.com/3bdallaaa/Temperature-Sensor/assets/118936824/8d7bfd24-13a3-42e1-9b45-21833b9fc903)
 
 The input is ADC (Temperature) and output is PWM (Duty)
