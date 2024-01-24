@@ -3,10 +3,10 @@
 
 The input is ADC and output is PWM
 
-Ranges of Duty:
- Below 52°C: Fan is turned off.
- Between 52°C and 55°C: Fan operates at 50% duty cycle.
- Above 55°C: Fan operates at 100% duty cycle.
+**Ranges of Duty:**   
+- Below 52°C: Fan is turned off.  
+- Between 52°C and 55°C: Fan operates at 50% duty cycle.   
+- Above 55°C: Fan operates at 100% duty cycle.   
 
-The temperature sensor used here is NTC 10K
-The arm is STM32F103C8
+The temperature sensor used here is NTC 10K   
+The arm is STM32F103C8   
